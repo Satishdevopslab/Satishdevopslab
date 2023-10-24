@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning DEVOPS tools 
 - 🌱 I’m currently learning DEVOPS AND AWS
 - 💞️ I’m looking to collaborate on the team of DEVOPS ENGINEERS
-- 📫 How to reach me ...MAIL-sakaleelasatish@gmail.com
+- 📫 How to reach me ...sakaleelasatish@gmail.com
   
 
 <!---
